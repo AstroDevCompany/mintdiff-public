@@ -1,3 +1,6 @@
+# Running latest version
+> https://mintflow.dev/mintdiff
+
 # MintDiff
 
 MintDiff is a Next.js web app for comparing two files. The MVP covers text-oriented comparisons with a clear upload flow, file descriptors, and a line-based diff view. It follows the roadmap in `../roadmap.md`, focusing on Phase 0 (setup) and Phase 1 (upload + text diff).
